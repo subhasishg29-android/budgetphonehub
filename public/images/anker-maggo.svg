@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#312e81"/>
+    </linearGradient>
+    <linearGradient id="mag" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+  <rect width="400" height="300" rx="16" fill="url(#bg1)"/>
+  <!-- Powerbank shape -->
+  <rect x="130" y="50" width="140" height="200" rx="20" fill="#0f172a" stroke="#6366f1" stroke-width="3" filter="url(#glow)"/>
+  <!-- MagSafe ring -->
+  <circle cx="200" cy="130" r="45" fill="none" stroke="url(#mag)" stroke-width="6"/>
+  <rect x="194" y="180" width="12" height="30" rx="4" fill="url(#mag)"/>
+  <!-- Anker logo text -->
+  <text x="200" y="230" font-family="Inter, sans-serif" font-weight="700" font-size="16" fill="#f8fafc" text-anchor="middle">ANKER MagGo</text>
+  <!-- Battery status dots -->
+  <circle cx="170" cy="80" r="4" fill="#10b981"/>
+  <circle cx="190" cy="80" r="4" fill="#10b981"/>
+  <circle cx="210" cy="80" r="4" fill="#10b981"/>
+  <circle cx="230" cy="80" r="4" fill="#10b981"/>
+</svg>

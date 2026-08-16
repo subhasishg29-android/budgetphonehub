@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="stGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+    <filter id="stGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+  <rect width="600" height="400" rx="20" fill="#0f172a"/>
+  <!-- Decorative Stitch background grid floating cards -->
+  <rect x="80" y="60" width="440" height="280" rx="20" fill="rgba(30, 41, 59, 0.8)" stroke="url(#stGrad)" stroke-width="3" filter="url(#stGlow)"/>
+  <circle cx="300" cy="180" r="60" fill="none" stroke="url(#stGrad)" stroke-width="8"/>
+  <polygon points="290,155 290,205 330,180" fill="#10b981"/>
+  <text x="300" y="280" font-family="Inter, sans-serif" font-weight="800" font-size="22" fill="#ffffff" text-anchor="middle">BudgetPhoneHub</text>
+  <text x="300" y="310" font-family="Inter, sans-serif" font-weight="500" font-size="14" fill="#94a3b8" text-anchor="middle">Stitch UI Design System & Affiliate Engine</text>
+</svg>

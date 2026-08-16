@@ -1,0 +1,112 @@
+[
+  {
+    "asin": "B08N5WRWNW",
+    "title": "Anker Magnetic Wireless Charger (MagGo 5K)",
+    "category": "Chargers",
+    "price": 39.99,
+    "currency": "USD",
+    "rating": 4.6,
+    "review_count": 12850,
+    "availability": "InStock",
+    "brand": "Anker",
+    "short_description": "Snap-and-charge magnetic 5,000mAh battery pack with built-in foldable stand for iPhone & MagSafe devices.",
+    "description": "Never get caught with a dead battery again. The Anker MagGo 5K combines a high-speed magnetic wireless power bank with a versatile built-in kickstand. Snap it directly onto your MagSafe-compatible phone for effortless on-the-go power and convenient hands-free viewing angles.",
+    "bullets": [
+      "5,000mAh capacity provides up to 17 extra hours of video playback",
+      "Built-in versatile foldable kickstand keeps your phone upright for viewing",
+      "Strong magnetic suction force keeps power bank firmly attached while typing",
+      "Compact, lightweight design easily fits in pockets or travel bags"
+    ],
+    "image": "/images/anker-maggo.svg",
+    "hero_image": "/images/anker-maggo-hero.svg",
+    "affiliate_url_template": "https://www.amazon.com/dp/B08N5WRWNW"
+  },
+  {
+    "asin": "B0B18GHM99",
+    "title": "UGREEN Foldable Aluminum Desk Phone Stand",
+    "category": "Stands",
+    "price": 14.99,
+    "currency": "USD",
+    "rating": 4.8,
+    "review_count": 24100,
+    "availability": "InStock",
+    "brand": "UGREEN",
+    "short_description": "Dual-axis fully foldable metal desk holder compatible with smartphones and small tablets (4-7.9 inches).",
+    "description": "Elevate your workspace ergonomics with the UGREEN Foldable Desk Phone Stand. Crafted from premium aluminum alloy, it features dual 270-degree adjustable hinges, non-slip silicone padding, and a dedicated charging cable port, making it ideal for Video Calls, watching movies, or reading recipes.",
+    "bullets": [
+      "Dual 270° adjustable hinges allow customizable viewing height and angle",
+      "Sturdy aluminum body with weighted base prevents tipping over",
+      "Anti-scratch silicone pads protect device and desktop from scratches",
+      "Pocket-sized fully foldable design perfect for travel and office"
+    ],
+    "image": "/images/ugreen-stand.svg",
+    "hero_image": "/images/ugreen-stand-hero.svg",
+    "affiliate_url_template": "https://www.amazon.com/dp/B0B18GHM99"
+  },
+  {
+    "asin": "B099K1NBF5",
+    "title": "Syncwire Waterproof Phone Pouch (2-Pack)",
+    "category": "Protection",
+    "price": 11.99,
+    "currency": "USD",
+    "rating": 4.7,
+    "review_count": 8920,
+    "availability": "InStock",
+    "brand": "Syncwire",
+    "short_description": "IPX8 certified universal waterproof case dry bag with touch-sensitive screen for water sports and beach.",
+    "description": "Keep your expensive phone completely safe from water, snow, sand, and dust. Syncwire IPX8 waterproof phone pouches allow full touchscreen responsiveness and crystal-clear photo/video recording underwater down to 100 feet. Includes comfortable adjustable neck straps.",
+    "bullets": [
+      "IPX8 certified waterproof protection up to 30 meters (100 feet)",
+      "Ultra-clear PVC windows ensure high touch sensitivity and clear camera shots",
+      "Fits all smartphones up to 7.0 inches screen size",
+      "Dual snap-and-lock seal clip provides airtight protection against sand & water"
+    ],
+    "image": "/images/syncwire-pouch.svg",
+    "hero_image": "/images/syncwire-pouch-hero.svg",
+    "affiliate_url_template": "https://www.amazon.com/dp/B099K1NBF5"
+  },
+  {
+    "asin": "B07Z8GDFDY",
+    "title": "ESR Metal Kickstand Case & Universal Ring Stand",
+    "category": "Cases & Stands",
+    "price": 16.99,
+    "currency": "USD",
+    "rating": 4.5,
+    "review_count": 15400,
+    "availability": "InStock",
+    "brand": "ESR",
+    "short_description": "Patented two-way metal kickstand holder supporting both portrait and landscape hands-free mode.",
+    "description": "Upgrade any phone case with ESR's patented metal kickstand. Built with durable aluminum alloy hinges tested over 3,000 uses, it offers seamless switching between vertical Facetime calls and horizontal video watching.",
+    "bullets": [
+      "Patented metal kickstand supports vertical (portrait) and horizontal (landscape) modes",
+      "Stays firmly closed when not in use with low-profile flush fit",
+      "High-bond 3M adhesive backs onto smooth plastic/metal cases reliably",
+      "Sturdy metal hinge maintains viewing angle over extended usage"
+    ],
+    "image": "/images/esr-kickstand.svg",
+    "hero_image": "/images/esr-kickstand-hero.svg",
+    "affiliate_url_template": "https://www.amazon.com/dp/B07Z8GDFDY"
+  },
+  {
+    "asin": "B08J3XFX5N",
+    "title": "Lamicall Car Air Vent Phone Holder Mount",
+    "category": "Car Accessories",
+    "price": 12.99,
+    "currency": "USD",
+    "rating": 4.6,
+    "review_count": 31200,
+    "availability": "InStock",
+    "brand": "Lamicall",
+    "short_description": "One-click lock universal car phone cradle for air vent with 360-degree rotation ball joint.",
+    "description": "Keep your hands on the wheel and eyes on the road. The Lamicall Car Air Vent Mount uses a quick-release clamp mechanism for easy one-handed operation. Rubberized vent clips lock firmly onto car blades without scratching or slipping.",
+    "bullets": [
+      "One-click release button for instant single-handed phone mounting",
+      "360-degree rotating ball joint provides optimal GPS view angles",
+      "Upgraded steel-core vent hook holds securely even on bumpy roads",
+      "Compatible with thick phone cases and smartphones up to 6.9 inches"
+    ],
+    "image": "/images/lamicall-car.svg",
+    "hero_image": "/images/lamicall-car-hero.svg",
+    "affiliate_url_template": "https://www.amazon.com/dp/B08J3XFX5N"
+  }
+]

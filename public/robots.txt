@@ -1,0 +1,6 @@
+# BudgetPhoneHub Robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap reference
+Sitemap: https://subhasish.me/sitemap.xml

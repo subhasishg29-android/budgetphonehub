@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <rect width="800" height="500" rx="24" fill="#09090b"/>
+  <circle cx="400" cy="220" r="85" fill="#18181b" stroke="#10b981" stroke-width="6"/>
+  <rect x="290" y="110" width="220" height="220" rx="24" fill="none" stroke="#f43f5e" stroke-width="6"/>
+  <path d="M 240 220 L 290 220 M 510 220 L 560 220 M 400 330 L 400 370" stroke="#f43f5e" stroke-width="10" stroke-linecap="round"/>
+  <text x="400" y="465" font-family="Inter, sans-serif" font-weight="800" font-size="22" fill="#ffffff" text-anchor="middle">Lamicall 360° Car Vent Holder</text>
+</svg>
